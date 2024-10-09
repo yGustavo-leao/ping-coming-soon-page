@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/ping-coming-soon-page/static/js/main.9c01c3c7.js",
+    "static/media/instagram.svg": "/ping-coming-soon-page/static/media/instagram.4b6c0d2edd38db41e361c9f6eb040b54.svg",
+    "static/media/twitter.svg": "/ping-coming-soon-page/static/media/twitter.cfddeb7186b1c896150801a9db792953.svg",
+    "index.html": "/ping-coming-soon-page/index.html",
+    "static/media/facebook.svg": "/ping-coming-soon-page/static/media/facebook.3887cda45dfb3149d4e8192cfb42b311.svg",
+    "main.9c01c3c7.js.map": "/ping-coming-soon-page/static/js/main.9c01c3c7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9c01c3c7.js"
+  ]
+}
